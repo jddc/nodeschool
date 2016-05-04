@@ -1,0 +1,25 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jddc/nodeschool.git"
+  },
+  "author": "jodanduco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jddc/nodeschool/issues"
+  },
+  "homepage": "https://github.com/jddc/nodeschool#readme",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "bl": "^1.1.2",
+    "concat-stream": "^1.5.1",
+    "strftime": "^0.9.2"
+  }
+}
